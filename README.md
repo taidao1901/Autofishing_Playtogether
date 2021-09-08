@@ -1,7 +1,7 @@
 # Autofishing_Playtogether
 Auto fishing using OpenCV and Win32api.sendmessage
 ## 1. Overview
-Autofishing is a tool that was made by me. It's will help you fishing in Play together. Let’s take a look of how it works.
+Autofishing is a tool that was made by me. It will help you fishing in Play together. Let’s take a look of how it works.
 - Detect and meansure the fish shadow
   * Raw image: <br />
  ![Raw](https://github.com/Uranium1901/Autofishing_Playtogether/blob/15603354d42f793cfb709837f59f52e41fdbab1b/Example/raw.jpg)
